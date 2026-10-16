@@ -24,23 +24,14 @@ Selecting Exit closes the application.
 
 ### Gameplay
 
-The player controls a character in a 2D side-scrolling platform environment.
-The player can move left, move right, and jump. The goal of each stage is to reach the end while avoiding hazards and navigating platforms.
-Each stage becomes more difficult than the previous one by introducing new obstacles, faster-moving hazards, more precise jumps, or combinations of previously introduced mechanics.
-If the player collides with a hazard, the player either loses a life or restarts the current stage. The exact penalty will be finalized during implementation.
-When the player reaches the end of a stage, the next stage begins.
+The player controls a character in a 2D side-scrolling platform environment. The player can move left, move right, and jump. The goal of each stage is to reach the end while avoiding hazards and navigating platforms. The player begins each run with three lives. The number of remaining lives is displayed during gameplay. If the player collides with a hazard, the player loses one life and the current stage restarts from the beginning. If the player loses all three lives, the run ends and the Game Over screen is shown. The player must then start a new run from the first stage. Each stage becomes more difficult than the previous one by introducing new obstacles, faster-moving hazards, more precise jumps, or combinations of previously introduced mechanics. When the player successfully reaches the end of a stage, the next stage begins.
 
 ### Scoring
 
-The player earns a score based on their performance during the run.
+The player earns points based on the number of stages completed, the total time taken, and the number of lives lost during the run. Each completed stage adds **1000 points** to the player's score. Time acts as a score penalty. For every second that passes during the run, **5 points** are deducted from the player's score. Each time the player loses a life, an additional **250 points** are deducted.
 
-The score may take into account factors such as:
+The player's score is calculated as:
 
-- stages completed;
-- time taken;
-- obstacles cleared;
-- deaths or retries.
+**Score = (1000 × stages completed) - (5 × total seconds elapsed) - (250 × lives lost)**
 
-The final scoring formula will be finalized before implementation.
-
-At the end of a run, the player's final score is displayed.
+The player's score cannot fall below 0. The current score is displayed during gameplay. When the run ends, either by completing all stages or by losing all three lives, the player's final score is displayed.
