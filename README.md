@@ -3,8 +3,8 @@ CPEN 221A Group Project - 2D JavaFX Platformer
 ## Team
 Our team consists of five CPEN 221A students working together to design and develop UBC-Dash.
 ## Roles
-- Project Manager: Mujeeb Adalatkhah
-- Designer: TBD
+- Project Manager: Mujeeb Adalatkhah ([@Mujeeb-Adalat](https://github.com/Mujeeb-Adalat))
+- Designer: Otis Yuen ([@TheYuenMG](https://github.com/TheYuenMG))
 - Developers: All team members
 ## Mission
 Our mission is to create a fun, competitive, and distinctly UBC-themed experience that gives students a quick way to relax, challenge themselves, and connect through shared campus culture.
