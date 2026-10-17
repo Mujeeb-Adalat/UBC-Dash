@@ -24,7 +24,7 @@ Selecting Exit closes the application.
 
 #### Main Menu Mockup
 
-<img width="326" height="173" alt="image" src="https://github.com/user-attachments/assets/457676fa-e967-4bf8-b06d-c2229005c6c4" />
+![Main Menu Mockup](images/Main%20Menu.png)
 
 
 ### Gameplay
@@ -47,7 +47,7 @@ The player's score cannot fall below 0. Restarting a stage does not reset the to
 
 #### Score Summary Mockup
 
-<img width="287" height="121" alt="image" src="https://github.com/user-attachments/assets/7a7e1a0b-0820-4f48-bf73-3a17b18bf4e8" />
+![Score Summary Mockup](images/Scoring.png)
 
 
 ### Leaderboard
@@ -56,7 +56,7 @@ The player can view the online leaderboard from the Main Menu. The leaderboard d
 
 #### Leaderboard Mockup
 
-<img width="257" height="155" alt="image" src="https://github.com/user-attachments/assets/84a4f8eb-1902-41bd-a54d-82e81395dd8b" />
+![Leaderboard Mockup](images/Leaderboard.png)
 
 
 ### Game Over and Run Complete
@@ -65,11 +65,11 @@ A run ends when either the player loses all three lives or successfully complete
 
 #### 1. Game Over Mockup
 
-<img width="322" height="121" alt="Game Over" src="https://github.com/user-attachments/assets/639fc5ac-f3c8-4e57-96c0-a224062a4ee0" />
+![Game Over Mockup](images/Game%20Over.png)
 
 #### 2. Run Complete Mockup
 
-<img width="323" height="143" alt="Run Complete" src="https://github.com/user-attachments/assets/98c94286-a73a-4276-a9eb-d2ba5f058cf6" />
+![Run Complete Mockup](images/Run%20Complete.png)
 
 ### Controls
 
@@ -96,5 +96,5 @@ Selecting Resume Game continues the current stage from the point where it was pa
 
 #### Pause Menu Mockup
 
-<img width="323" height="169" alt="image" src="https://github.com/user-attachments/assets/6588547c-e540-4d93-98e6-1eb25ee742b9" />
+![Pause Menu Mockup](images/Pause%20Menu.png)
 
