@@ -24,7 +24,8 @@ Selecting Exit closes the application.
 
 #### Main Menu Mockup
 
-![A mockup of the main menu screen](images/Main_Menu.png)
+![Main Menu Mockup](images/Main%20Menu.png)
+
 
 ### Gameplay
 
@@ -32,7 +33,7 @@ The player controls a character in a 2D side-scrolling platform environment. The
 
 #### Gameplay Mockup
 
-![A labelled mockup of gameplay on an example stage](images/UBC-Dash_gp-mockup.jpg)
+![A labelled mockup of an example stage in UBC Dash](images/UBC-Dash_gp-mockup.jpg)
 
 ### Scoring
 
@@ -46,7 +47,8 @@ The player's score cannot fall below 0. Restarting a stage does not reset the to
 
 #### Score Summary Mockup
 
-![A mockup of the score summary screen](images/Scoring.png)
+![Score Summary Mockup](images/Scoring.png)
+
 
 ### Leaderboard
 
@@ -54,7 +56,8 @@ The player can view the online leaderboard from the Main Menu. The leaderboard d
 
 #### Leaderboard Mockup
 
-![A mockup of the leaderboard display](images/Leaderboard.png)
+![Leaderboard Mockup](images/Leaderboard.png)
+
 
 ### Game Over and Run Complete
 
@@ -62,11 +65,11 @@ A run ends when either the player loses all three lives or successfully complete
 
 #### 1. Game Over Mockup
 
-![A mockup of the defeat screen](images/Game_Over.png)
+![Game Over Mockup](images/Game%20Over.png)
 
 #### 2. Run Complete Mockup
 
-![A mockup of the victory screen](images/Run_Complete.png)
+![Run Complete Mockup](images/Run%20Complete.png)
 
 ### Controls
 
@@ -93,4 +96,5 @@ Selecting Resume Game continues the current stage from the point where it was pa
 
 #### Pause Menu Mockup
 
-![A mockup of the pause menu screen](images/Pause_Menu.png)
+![Pause Menu Mockup](images/Pause%20Menu.png)
+
