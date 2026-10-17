@@ -41,7 +41,7 @@ The player's score is calculated as:
 
 The player's score cannot fall below 0. Restarting a stage does not reset the total elapsed time or remove any score penalties already accumulated during the run. The current score is displayed during gameplay. When the run ends, either by completing all stages or by losing all three lives, the player's final score is displayed.
 
-#### Scoring Mockup
+#### Score Summary Mockup
 
 <img width="287" height="121" alt="image" src="https://github.com/user-attachments/assets/7a7e1a0b-0820-4f48-bf73-3a17b18bf4e8" />
 
@@ -57,7 +57,15 @@ The player can view the online leaderboard from the Main Menu. The leaderboard d
 
 ### Game Over and Run Complete
 
-A run ends when either the player loses all three lives or successfully completes the final stage. If the player loses all three lives, the Game Over screen is shown. This screen displays the player's final score and provides the option to submit the score to the online leaderboard. If the player completes the final stage, a Run Complete screen is shown. This screen displays the player's final score and indicates that all stages have been completed successfully. The player is also given the option to submit the score to the online leaderboard. After submitting or skipping score submission, the player may return to the Main Menu and start a new run.
+A run ends when either the player loses all three lives or successfully completes the final stage. If the player loses all three lives, a Game Over screen is shown. This screen displays the message "Game Over" and prompts the player to press any key to continue. If the player completes the final stage, a Run Complete screen is shown. This screen displays the message "Run Complete" and indicates that all stages have been completed successfully. The player is then prompted to press any key to continue. After the player presses a key on either screen, a score summary screen is shown. This screen displays the player's run statistics, final score, and the option to submit the score to the online leaderboard. After submitting or skipping score submission, the player is returned to the Main Menu.
+
+#### 1. Game Over Mockup
+
+<img width="322" height="121" alt="Game Over" src="https://github.com/user-attachments/assets/639fc5ac-f3c8-4e57-96c0-a224062a4ee0" />
+
+#### 2. Run Complete Mockup
+
+<img width="323" height="143" alt="Run Complete" src="https://github.com/user-attachments/assets/98c94286-a73a-4276-a9eb-d2ba5f058cf6" />
 
 ### Controls
 
