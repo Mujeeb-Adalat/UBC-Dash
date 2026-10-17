@@ -2,6 +2,11 @@
 CPEN 221A Group Project - 2D JavaFX Platformer
 ## Team
 Our team consists of five CPEN 221A students working together to design and develop UBC-Dash.
+- Mujeeb Adalatkhah ([@Mujeeb-Adalat](https://github.com/Mujeeb-Adalat))
+- Otis Yuen ([@TheYuenMG](https://github.com/TheYuenMG))
+- Claudia Perez ([@claudiaxxx1](https://github.com/claudiaxxx1))
+- Gary Zhuo ([@Garyz08](https://github.com/Garyz08))
+- Xander Papais ([@XanderPapais](https://github.com/XanderPapais))
 ## Roles
 - Project Manager: Mujeeb Adalatkhah ([@Mujeeb-Adalat](https://github.com/Mujeeb-Adalat))
 - Designer: Otis Yuen ([@TheYuenMG](https://github.com/TheYuenMG))
