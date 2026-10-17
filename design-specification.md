@@ -26,6 +26,10 @@ Selecting Exit closes the application.
 
 The player controls a character in a 2D side-scrolling platform environment. The player can move left, move right, and jump. The goal of each stage is to reach the end while avoiding hazards and navigating platforms. The player begins each run with three lives. The number of remaining lives is displayed during gameplay. If the player collides with a hazard, the player loses one life and the current stage restarts from the beginning. If the player loses all three lives, the run ends and the Game Over screen is shown. The player must then start a new run from the first stage. Each stage becomes more difficult than the previous one by introducing new obstacles, faster-moving hazards, more precise jumps, or combinations of previously introduced mechanics. When the player successfully reaches the end of a stage, the next stage begins.
 
+#### Gameplay Mockup
+
+![A labelled mockup of an example stage in UBC Dash](images/UBC-Dash_gp-mockup.jpg)
+
 ### Scoring
 
 The player earns points based on the number of stages completed, the total time taken, and the number of lives lost during the run. Each completed stage adds **1000 points** to the player's score. Time acts as a score penalty. For every second that passes during the run, **5 points** are deducted from the player's score. Each time the player loses a life, an additional **250 points** are deducted.
